@@ -1,5 +1,7 @@
 # openport
 
+Currently only tcp supported. udp to-do
+
 ## Installing
 
 ```bash
