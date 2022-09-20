@@ -1,5 +1,13 @@
 # openport
 
-sample command:
+## Installing
 
-openport <tcp/udp> -p <port_num>
+```bash
+go get -u github.com/ahmad4fifz/openport
+```
+
+## Usage
+
+```bash
+openport -p <1-65535>
+```
