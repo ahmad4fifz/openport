@@ -1,4 +1,4 @@
-module github.com/ahma4fifz/openport
+module github.com/ahmad4fifz/openport
 
 go 1.18
 
