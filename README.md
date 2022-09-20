@@ -3,7 +3,7 @@
 ## Installing
 
 ```bash
-go install github.com/ahmad4fifz/openport
+go install github.com/ahmad4fifz/openport@latest
 ```
 
 ## Usage
