@@ -1,5 +1,8 @@
 # openport
 
+[![Go](https://github.com/ahmad4fifz/openport/actions/workflows/go-test-build.yml/badge.svg)](https://github.com/ahmad4fifz/openport/actions/workflows/go-test-build.yml)
+[![CodeQL](https://github.com/ahmad4fifz/openport/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ahmad4fifz/openport/actions/workflows/codeql-analysis.yml)
+
 Currently only tcp supported. udp to-do
 
 ## Installing
